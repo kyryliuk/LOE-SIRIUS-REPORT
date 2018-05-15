@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ConnectionSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  <WorkerIndivid>
+    <First_Name>Роман</First_Name>
+    <Last_Name>Кирилюк</Last_Name>
+    <Middle_NameP>Миколайович</Middle_NameP>
+    <Table_Number>18762</Table_Number>
+    <Department_Name>ВІДДІЛ СУПРОВОДУ ІНФОРМАЦІЙНОЇ СИСТЕМИ УПРАВЛІННЯ ПІДПРИЄМСТВОМ</Department_Name>
+    <Time_startW>9:16</Time_startW>
+    <Time_endW>11:16</Time_endW>
+  </WorkerIndivid>
+  <WorkerIndivid>
+    <First_Name>Микола</First_Name>
+    <Last_Name>Сухораб</Last_Name>
+    <Middle_NameP>Андрійович</Middle_NameP>
+    <Table_Number>18761</Table_Number>
+    <Department_Name>ВІДДІЛ СУПРОВОДУ ІНФОРМАЦІЙНОЇ СИСТЕМИ УПРАВЛІННЯ ПІДПРИЄМСТВОМ</Department_Name>
+    <Time_startW>9:16</Time_startW>
+    <Time_endW>11:16</Time_endW>
+  </WorkerIndivid>
+  <WorkerIndivid>
+    <First_Name>Орест</First_Name>
+    <Last_Name>Козін</Last_Name>
+    <Middle_NameP>Степанович</Middle_NameP>
+    <Table_Number>711</Table_Number>
+    <Department_Name>ВІДДІЛ СУПРОВОДУ ІНФОРМАЦІЙНОЇ СИСТЕМИ УПРАВЛІННЯ ПІДПРИЄМСТВОМ</Department_Name>
+    <Time_startW>10:47</Time_startW>
+    <Time_endW>12:47</Time_endW>
+  </WorkerIndivid>
+</ArrayOfWorkerIndivid>

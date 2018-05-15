@@ -1,0 +1,19 @@
+﻿<Window x:Class="TestPostgreInWpf.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestPostgreInWpf"
+        mc:Ignorable="d"
+        Title="About" Height="350" Width="540" Background="{DynamicResource ActiveBrush2}">
+    <Grid >
+        <Label Content="Всім привіт! " FontSize="20" Foreground="Aqua" HorizontalAlignment="Left" Margin="200,10,0,0" VerticalAlignment="Top" Height="45" Width="124"/>
+        <Label Content="Програму створено Кирилюком Романом для Львівобленерго" FontSize="16" Foreground="Aqua" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Height="43" Width="512"/>
+        <Label Content="А саме для системи контролю працівників системи SIRIUS" FontSize="16" Foreground="Aqua" HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top" Height="43" Width="512"/>
+        <Label Content="Головні виключення (помилки) в програмі оброблені, але не все" FontSize="16" Foreground="DarkRed" HorizontalAlignment="Left" Margin="10,141,0,0" VerticalAlignment="Top" Height="43" Width="512"/>
+        <Label Content="Тому в деяких випадках программа може зависати, лагати" FontSize="16" Foreground="DarkRed" HorizontalAlignment="Left" Margin="10,189,0,0" VerticalAlignment="Top" Height="43" Width="512"/>
+        <Label Content="Для забеспечення кращої роботи прошу телефонувати , або писати" FontSize="16" Foreground="DarkRed" HorizontalAlignment="Left" Margin="10,232,0,0" VerticalAlignment="Top" Height="43" Width="512"/>
+        <Label Content="   27-88                                       kyryliuk.roma@gmail.com" FontSize="18" Foreground="DarkGreen" HorizontalAlignment="Left" Margin="10,275,0,0" VerticalAlignment="Top" Height="43" Width="512" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

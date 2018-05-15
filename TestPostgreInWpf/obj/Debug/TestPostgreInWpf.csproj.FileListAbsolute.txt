@@ -1,0 +1,184 @@
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe.config
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.pdb
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Mono.Security.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\policy.2.0.Npgsql.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.pdb
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.xml
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.ResolveComReference.cache
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.baml
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.baml
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.baml
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.g.cs
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.g.cs
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.g.cs
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\App.g.cs
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf_MarkupCompile.cache
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.g.resources
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.Properties.Resources.resources
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.GenerateResource.Cache
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.exe
+C:\Users\r.kyryliuk\Documents\Visual Studio 2013\Projects\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.pdb
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe.config
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.ResolveComReference.cache
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.exe
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.pdb
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.pdb
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.xml
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.baml
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.baml
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.baml
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.g.cs
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.g.cs
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.g.cs
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\App.g.cs
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf_MarkupCompile.cache
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.g.resources
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.Properties.Resources.resources
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.GenerateResource.Cache
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Mono.Security.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\de\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\es\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fi\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fr\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ja\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\net\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csprojResolveAssemblyReference.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe.config
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.ResolveComReference.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.exe
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.pdb
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.exe
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\TestPostgreInWpf.pdb
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Mono.Security.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\Npgsql.xml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\de\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\es\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\Connection.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\EmployersDT_Set.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\MainWindow.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\App.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf_MarkupCompile.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.g.resources
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.Properties.Resources.resources
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.GenerateResource.Cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.ResolveComReference.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Connection.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\EmployersDT_Set.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Block.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Connection.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\EmployersDT_Set.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\LoadingAnimation.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Loading_window.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\MainWindow.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\App.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Block.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Mono.Security.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Npgsql.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\Npgsql.xml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\de\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\es\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\App.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Dictionary1.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\LoadingAnimation.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\Loading_window.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\MainWindow.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.Properties.Resources.resources
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.GenerateResource.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.CoreCompileInputs.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\TestPostgreInWpf.csproj.CopyComplete
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\DataGridWindow.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\DataGridWindow.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\About.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\About.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\HelpWindow.g.cs
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\HelpWindow.baml
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\SiriusReport.exe.config
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\SiriusReport.exe
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\bin\Debug\SiriusReport.pdb
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\SiriusReport_MarkupCompile.cache
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\SiriusReport_MarkupCompile.lref
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\SiriusReport.g.resources
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\SiriusReport.exe
+C:\Users\r.kyryliuk\Desktop\TestPostgreInWpf28.03\TestPostgreInWpf\obj\Debug\SiriusReport.pdb

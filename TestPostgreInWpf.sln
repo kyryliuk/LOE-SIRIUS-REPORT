@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPostgreInWpf", "TestPostgreInWpf\TestPostgreInWpf.csproj", "{B30D96F0-98BB-4BDF-804B-D3D5892B6766}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SiriusReport", "SiriusReport\SiriusReport.vdproj", "{EFB29048-2D0B-4409-AB80-819203D2430B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D96F0-98BB-4BDF-804B-D3D5892B6766}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{EFB29048-2D0B-4409-AB80-819203D2430B}.CD_ROM|Any CPU.ActiveCfg = Release
+		{EFB29048-2D0B-4409-AB80-819203D2430B}.Debug|Any CPU.ActiveCfg = Debug
+		{EFB29048-2D0B-4409-AB80-819203D2430B}.DVD-5|Any CPU.ActiveCfg = Debug
+		{EFB29048-2D0B-4409-AB80-819203D2430B}.Release|Any CPU.ActiveCfg = Release
+		{EFB29048-2D0B-4409-AB80-819203D2430B}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2599345B-6629-4FE7-B782-BC9171CC024A}
+	EndGlobalSection
+EndGlobal
